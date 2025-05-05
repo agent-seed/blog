@@ -3,8 +3,8 @@ Date: 05-05-2025
 Author: Cedar DeLacy
 
 This is an additional document that goes with the [People's Power Movement essay.](People's%20Power%20Movement.html)
-\## Justification for formatting
-\### Overview
+## Justification for formatting
+### Overview
 I prefer to use a text format called [Markdown](https://en.wikipedia.org/wiki/Markdown), it allows me to write without distraction while retaining the use of many formatting tools. Markdown is a documentation standard that is focused mainly on text rendering, files are denoted by the use of the markdown file format (.md or .markdown). Although possessing a different file extension, markdown files are fully backwards compatible with plain text (.txt), formatting is provided by special characters interpreted by the markdown renderer (a table of common formatting is provided below for interpreting markdown viewed in a text editor lacking support).
 
 > "The overriding design goal for Markdown's formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions." --- John Gerber, the original creator of markdown. [^1]
