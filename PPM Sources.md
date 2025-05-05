@@ -1,5 +1,5 @@
 Title: PPM Sources
-Date: 05-05-2025
+Date: 2025-05-05
 Author: Cedar DeLacy
 
 - DeLacy, Cedar. "Thoughts on the MLA Citation method". *Ranch.legal*, 5 May 2025, <https://blog.ranch.legal/output/Thoughts%20on%20the%20MLA%20Citation%20method.html>.

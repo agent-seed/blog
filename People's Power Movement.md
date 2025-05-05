@@ -1,5 +1,5 @@
 Title: People's Power Movement
-Date: 05-05-2025
+Date: 2025-05-05
 Author: Cedar DeLacy
 
 ## What were the LA Riots?

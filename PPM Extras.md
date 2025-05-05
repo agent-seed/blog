@@ -1,5 +1,5 @@
 Title: PPM Extras
-Date: 05-05-2025
+Date: 2025-05-05
 Author: Cedar DeLacy
 
 This is an additional document that goes with the [People's Power Movement essay.](People's%20Power%20Movement.html)
